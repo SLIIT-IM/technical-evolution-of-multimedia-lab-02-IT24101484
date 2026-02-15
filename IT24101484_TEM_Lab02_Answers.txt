@@ -1,0 +1,10 @@
+1.What is a variable?
+*Variables store values that can be reused throughout the program.
+
+2.How does an if statement work?
+*if checks a condition.
+*If the condition is true → the first block runs.
+*If the condition is false → the else block runs.
+
+3.Why are loops useful in creative coding?
+*loops repeat drawing steps automatically. So it can be use to create patterns.
